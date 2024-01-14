@@ -22,4 +22,14 @@
 
 ### Обратная связь
 
-`to be continued...`
+После разметки подвыборки из 50 песен и 4 классов, я попросил разметчика ответить на следующие вопросы: 
+1. Насколько ТЗ было понятно прописано?
+2. С какими проблемами столкнулся во время разметки?
+3. Сколько времени потребовалось на разметку одну песню
+
+Ответы написаны на английском, по скольку человек не русскоговорящий:  
+1. The task is pretty straightforward, simple. The instructions are so clear and comprehensive. 
+2. I got confused many times to decide whether the track is suitable for sport (Yoga) or background. 
+3. I have listened for roughly 1 minute from each track, so almost one hour was spent to complete the labeling.
+
+Также по разговору, на идею ограничения времени прослушивания, был позитивный фидбек
